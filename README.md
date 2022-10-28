@@ -10,7 +10,7 @@ O primeiro elemento do commit é o seu tipo, ele irá indicar um escopo sobre o 
 
 - `chore` - Commits do tipo chore indicam instalação ou remoção de dependências e configurações do projeto.
   
-- `feat`- Commits do tipo feat indicam que seu trecho de código está criando, alterando ou deletando uma funcionalidade. 
+- `feat` - Commits do tipo feat indicam que seu trecho de código está criando, alterando ou deletando uma funcionalidade. 
 
 - `style` - Commits do tipo style indicam que houveram alterações referentes a estilizações, adição de arquivos como imagens, vídeos ou documentos ao projeto.
 
