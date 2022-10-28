@@ -18,4 +18,4 @@ O primeiro elemento do commit é o seu tipo, ele irá indicar um escopo sobre o 
 
 - `test` - Commits do tipo test são utilizados quando são realizadas alterações em arquivos de testes, seja criando, alterando ou excluindo testes em geral. (Não afeta o código fonte ou quaisquer funcionalidades do projeto)
 
-<details>
+</details>
