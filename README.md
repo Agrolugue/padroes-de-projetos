@@ -1,10 +1,10 @@
 # Padõres de Commits / Projetos / Nomeclaturas
 
 <details>
-  <summary><b>⚡ Commits </b></summary>
+  <summary><b>:lipstick: Commits </b></summary>
   <br/>
   
- #### Tipo e Descrição
+ #### Tipo e Descrição:
 
 O primeiro elemento do commit é o seu tipo, ele irá indicar um escopo sobre o que foi alterado ou adicionado. Os tipos que usamos são: chore, feat, style, docs, e test.
 
@@ -17,5 +17,16 @@ O primeiro elemento do commit é o seu tipo, ele irá indicar um escopo sobre o 
 - `docs` - Commits do tipo docs indicam que houveram mudanças na documentação da aplicação e no próprio README.
 
 - `test` - Commits do tipo test são utilizados quando são realizadas alterações em arquivos de testes, seja criando, alterando ou excluindo testes em geral. (Não afeta o código fonte ou quaisquer funcionalidades do projeto)
+
+
+#### Recomendações:
+
+- Faça commits pequenos. (Modificar muitos arquivos e commitar de uma única vez pode ocasionar problemas na restauração caso tenha necessidade)
+- Após o tipo descreva brevemente o que foi realizado no commit.
+- Não commitar tarefas não concluídas ou com erros.
+- Não commitar pastas e arquivos gerados automaticamentes como a node_modules.
+- Não commitar informações sigilosas como: acesso a bancos de dados e tokens privados de serviços externos
+- Não commitar diretamente na branch principal.
+- Se for usar emojis no inicio da mensagem, utilize em todos os commits.
 
 </details>
