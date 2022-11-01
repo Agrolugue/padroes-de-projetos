@@ -1,7 +1,7 @@
 # Padõres de Commits / Projetos / Nomeclaturas
 
 <details>
-  <summary><b>:lipstick: Commits </b></summary>
+  <summary><b>:bookmark: Commits </b></summary>
   <br/>
   
  #### Tipo e Descrição:
@@ -29,4 +29,14 @@ O primeiro elemento do commit é o seu tipo, ele irá indicar um escopo sobre o 
 - Não commitar diretamente na branch principal.
 - Se for usar emojis no inicio da mensagem, utilize em todos os commits.
 
+</details>
+
+<details>
+<summary><b>:rocket: Projetos </b></summary>
+  <br/>
+</details>
+
+<details>
+<summary><b>:pencil: Nomeclaturas </b></summary>
+  <br/>
 </details>
